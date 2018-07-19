@@ -23,7 +23,7 @@ Add this to your `~/.cabal/config`:
 
 ```
 repository ghcjs-overlay
-  url: http://hackage-ghcjs-overlay.nomeata.de
+  url: http://hackage-ghcjs-overlay.nomeata.de/
   secure: True
   root-keys:
   key-threshold: 0
