@@ -4,7 +4,7 @@ GHCJS package overlay for Hackage
 It is possible to develop GHCJS applications with Cabal and `caba-install`,
 just as if one were using GHC. Unfortunately, few people don't, and hence a
 number of key packages are note being uploaded to Hackage. Until this is fixed,
-this repository provides a cabal repository with these packages. 
+this repository provides a cabal repository with these packages.
 
 What is included?
 -----------------
@@ -36,7 +36,7 @@ update`.
 Can I use this on travis?
 -------------------------
 
-Yes you can! See https://github.com/nomeata/ghcjs2gh-pages/ for an `.trais.yml`
+Yes you can! See <https://github.com/nomeata/ghcjs2gh-pages/> for an `.trais.yml`
 file that builds your GHCJS program using this repo (and automatically deploys
 your GHCJS program to Github Pages).
 
@@ -62,12 +62,12 @@ Do we really need this?
 
 Only until these bugs are fixes:
 
-* https://github.com/ghcjs/ghcjs-base/issues/93
-* https://github.com/reflex-frp/reflex/issues/177
-* https://github.com/reflex-frp/reflex-dom/issues/140
+* <https://github.com/ghcjs/ghcjs-base/issues/93>
+* <https://github.com/reflex-frp/reflex/issues/177>
+* <https://github.com/reflex-frp/reflex-dom/issues/140>
 
 Concact
 -------
 
 This make-shift service is provided by Joachim Breitner <<mail@joachim-breitner.de>>.
-It is hosted at https://github.com/nomeata/hackage-ghcjs-overlay where you can report issues.
+It is hosted at <https://github.com/nomeata/hackage-ghcjs-overlay> where you can report issues.
