@@ -66,8 +66,8 @@ Only until these bugs are fixes:
 * https://github.com/reflex-frp/reflex/issues/177
 * https://github.com/reflex-frp/reflex-dom/issues/140
 
-Concatct
---------
+Concact
+-------
 
-This make-shift service is provided by
-Joachim Breitner <mail@joachim-breitner.de>.
+This make-shift service is provided by Joachim Breitner <<mail@joachim-breitner.de>>.
+It is hosted at https://github.com/nomeata/hackage-ghcjs-overlay where you can report issues.
