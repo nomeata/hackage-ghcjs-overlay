@@ -33,6 +33,13 @@ If you use new-style cabal commands, you can also add it to your
 `cabal.project`, but you will have to use `cabal new-update` instead of `cabal
 update`.
 
+Can I use this on travis?
+-------------------------
+
+Yes you can! See https://github.com/nomeata/ghcjs2gh-pages/ for an `.trais.yml`
+file that builds your GHCJS program using this repo (and automatically deploys
+your GHCJS program to Github Pages).
+
 How is this created?
 --------------------
 
