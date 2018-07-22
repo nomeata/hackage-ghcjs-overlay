@@ -69,5 +69,5 @@ Only until these bugs are fixes:
 Concact
 -------
 
-This make-shift service is provided by Joachim Breitner <<mail@joachim-breitner.de>>.
+This make-shift service is provided by Joachim Breitner (<mail@joachim-breitner.de>).
 It is hosted at <https://github.com/nomeata/hackage-ghcjs-overlay> where you can report issues.
