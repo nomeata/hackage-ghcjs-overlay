@@ -1,9 +1,9 @@
 GHCJS package overlay for Hackage
 =================================
 
-It is possible to develop GHCJS applications with Cabal and `caba-install`,
+It is possible to develop GHCJS applications with Cabal and `cabal-install`,
 just as if one were using GHC. Unfortunately, few people don't, and hence a
-number of key packages are note being uploaded to Hackage. Until this is fixed,
+number of key packages are not being uploaded to Hackage. Until this is fixed,
 this repository provides a cabal repository with these packages.
 
 What is included?
@@ -36,7 +36,7 @@ update`.
 Can I use this on travis?
 -------------------------
 
-Yes you can! See <https://github.com/nomeata/ghcjs2gh-pages/> for an `.trais.yml`
+Yes you can! See <https://github.com/nomeata/ghcjs2gh-pages/> for a `.travis.yml`
 file that builds your GHCJS program using this repo (and automatically deploys
 your GHCJS program to Github Pages).
 
@@ -60,7 +60,7 @@ Some automation might be nice...
 Do we really need this?
 -----------------------
 
-Only until these bugs are fixes:
+Only until these bugs are fixed:
 
 * <https://github.com/ghcjs/ghcjs-base/issues/93>
 * <https://github.com/reflex-frp/reflex/issues/177>
