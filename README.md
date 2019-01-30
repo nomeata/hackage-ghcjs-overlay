@@ -66,8 +66,11 @@ Do we really need this?
 Only until these bugs are fixed:
 
 * <https://github.com/ghcjs/ghcjs-base/issues/93>
-* ~<https://github.com/reflex-frp/reflex/issues/177>~
-* ~<https://github.com/reflex-frp/reflex-dom/issues/140>~
+
+Other related bugs
+
+* <https://github.com/reflex-frp/reflex/issues/177>
+* <https://github.com/reflex-frp/reflex-dom/issues/140>
 
 Concact
 -------
