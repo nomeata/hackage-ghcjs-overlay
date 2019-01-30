@@ -2,8 +2,8 @@ GHCJS package overlay for Hackage
 =================================
 
 It is possible to develop GHCJS applications with Cabal and `cabal-install`,
-just as if one were using GHC. Unfortunately, few people don't, and hence a
-number of key packages are not being uploaded to Hackage. Until this is fixed,
+just as if one were using GHC. Unfortunately, few people do that, and hence a
+number of key packages are note being uploaded to Hackage. Until this is fixed,
 this repository provides a cabal repository with these packages.
 
 What is included?
@@ -12,9 +12,12 @@ What is included?
 It includes:
 
  * `ghcjs-base`
+
+It used to include the following packages, which have since been uploaded to
+hackage in a decent version:
+
  * `reflex`
  * `reflex-dom` and `reflex-dom-core`.
-
 
 How do I use this?
 ------------------
@@ -63,8 +66,8 @@ Do we really need this?
 Only until these bugs are fixed:
 
 * <https://github.com/ghcjs/ghcjs-base/issues/93>
-* <https://github.com/reflex-frp/reflex/issues/177>
-* <https://github.com/reflex-frp/reflex-dom/issues/140>
+* ~<https://github.com/reflex-frp/reflex/issues/177>~
+* ~<https://github.com/reflex-frp/reflex-dom/issues/140>~
 
 Concact
 -------
