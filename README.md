@@ -11,13 +11,14 @@ What is included?
 
 It includes:
 
- * `ghcjs-base`
+ * **nothing currently** life is good. Go and use Hackage directly.
 
 It used to include the following packages, which have since been uploaded to
 hackage in a decent version:
 
  * `reflex`
  * `reflex-dom` and `reflex-dom-core`.
+ * `ghcjs-base`
 
 How do I use this?
 ------------------
@@ -63,14 +64,13 @@ Some automation might be nice...
 Do we really need this?
 -----------------------
 
-Only until these bugs are fixed:
+No, not at the moment.
 
-* <https://github.com/ghcjs/ghcjs-base/issues/93>
-
-Other related bugs
+Old related bugs
 
 * <https://github.com/reflex-frp/reflex/issues/177>
 * <https://github.com/reflex-frp/reflex-dom/issues/140>
+* <https://github.com/ghcjs/ghcjs-base/issues/93>
 
 Concact
 -------
